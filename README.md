@@ -10,6 +10,7 @@ The script asks for your username and password and logs you into vtopbeta automa
 
 ## Installing Dependencies
 `pip -r requirements.txt`
+We recommend using pipfile
 
 ### Captcha breaking code and bitmaps.json is work of
 [@Presto412](https://github.com/Presto412/Captcha-Cracker)
